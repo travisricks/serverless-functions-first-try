@@ -1,0 +1,24 @@
+{
+  "name": "serverless-functions-first-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-cli": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisricks/serverless-functions-first-try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisricks/serverless-functions-first-try/issues"
+  },
+  "homepage": "https://github.com/travisricks/serverless-functions-first-try#readme"
+}
